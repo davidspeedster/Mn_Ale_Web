@@ -2,11 +2,13 @@
 
 namespace App\Http\Controllers\WebPageControllers;
 
+
 use App\Edition;
 
 
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Config;
+
 
 class HomePageController extends Controller
 {
